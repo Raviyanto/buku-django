@@ -61,7 +61,7 @@ untuk membuat project pertama di django:
 
 * selanjutnya kita coba buat aplikasi web: disini sy contohkan nama appnya uvt
   
-  python manage.py start app uvt
+  python manage.py startapp uvt
   
   uvt
   |-- __init__.py
